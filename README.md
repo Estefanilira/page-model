@@ -1,4 +1,4 @@
-# page-model with interaction with the machine.
+# Page-model with interaction with the machine.
 
 ![page-model](https://github.com/Estefanilira/page-model/assets/126111557/a8302c71-24e1-4854-8656-14039dee084a)
 
